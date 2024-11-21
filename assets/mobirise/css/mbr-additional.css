@@ -1208,6 +1208,19 @@ a {
 .cid-uqf4QcfjAr .mbr-section-title {
   color: #f29200;
 }
+.cid-uqf4QcfjAr .weekday {
+  padding-right: 20px;
+}
+.cid-uqf4QcfjAr td {
+  vertical-align: top;
+  padding-bottom: 0px;
+}
+.cid-uqf4QcfjAr table tbody tr {
+  border-bottom: 1px solid #ccc;
+}
+.cid-uqf4QcfjAr table tbody tr:last-child {
+  border-bottom: none;
+}
 .cid-uqHQkUZ9oa {
   padding-top: 1rem;
   padding-bottom: 1rem;
